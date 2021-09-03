@@ -1,0 +1,37 @@
+body{
+  text-align:center;
+  background:linear-gradient(#D50000 0% , #FF6D00 100%);
+  backgrond-repeat:no-repeat;
+}
+#Itachi{
+  border-radius:500px;
+  border:dashed;
+  border-color:#FF6D00;
+}
+#name{
+  font-variant:small-caps;
+  font-size:32px;
+}
+#Uchiha{
+  font-variant:small-caps;
+  font-size:27px;
+}
+#info{
+  font-variant:small-caps;
+  font-size:25px;
+}
+.menu{
+    list-style:none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    bottom: 150px;
+    cursor: pointer;
+    color: black;
+}
+
+
+
+
+
